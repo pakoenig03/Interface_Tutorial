@@ -1,0 +1,7 @@
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\bin\Debug\Fernbedinung_Test.exe.config
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\bin\Debug\Fernbedinung_Test.exe
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\bin\Debug\Fernbedinung_Test.pdb
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\obj\Debug\Fernbedinung_Test.csprojAssemblyReference.cache
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\obj\Debug\Fernbedinung_Test.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\obj\Debug\Fernbedinung_Test.exe
+C:\Users\Melisa\source\repos\Solution\Fernbedinung_Test\obj\Debug\Fernbedinung_Test.pdb
